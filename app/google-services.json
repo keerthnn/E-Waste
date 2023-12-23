@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997083128690",
+    "project_id": "ewasteproj",
+    "storage_bucket": "ewasteproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997083128690:android:be787d65fe8e5be97173eb",
+        "android_client_info": {
+          "package_name": "com.example.feed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997083128690-iojn9agcgcu5ig3o1h5vplmborhth2i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7RRJBYvxUYp4Q_4rVeaceo99RWma3DJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997083128690-iojn9agcgcu5ig3o1h5vplmborhth2i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
